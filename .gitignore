@@ -1,0 +1,7 @@
+**/out/
+**/build/
+**/shelf/
+**/.idea/
+
+**/*.class
+**/*.iml
