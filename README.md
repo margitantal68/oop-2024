@@ -30,7 +30,7 @@ For each lecture, there will be some exercises to practice in form of **Google C
 
 - [Week 1](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-1-introduction-original.ipynb) 
 
-- [Week 1-solution](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-1-introduction-solution.ipyb)
+- [Week 1-solution](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-1-introduction-solution.ipynb)
 
 
 ### Practical exercises:
