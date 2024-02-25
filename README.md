@@ -28,11 +28,13 @@ This open-access course will introduce you to object-oriented programming in Jav
 
 For each lecture, there will be some exercises to practice in form of **Google Colab notebooks**.
 
-- [Week 1](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-1-introduction-original.ipynb) 
-
+- [Week 1](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-1-introduction-original.ipynb)
 - [Week 1-solution](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-1-introduction-solution.ipynb)
+- [Week 2](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-2-objects-and-classes-original.ipynb)
+- [Week 2-solution](https://github.com/margitantal68/oop-2024/blob/main/notebooks/oop-java-2-objects-and-classes-solution.ipynb)
 
 
 ### Practical exercises:
 
 - [Week 1](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB1.pdf)
+- [Week 2](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB2.pdf)
