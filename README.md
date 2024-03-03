@@ -28,12 +28,9 @@ This open-access course will introduce you to object-oriented programming in Jav
 
 For each lecture, there will be some exercises to practice in form of **Google Colab notebooks**.
 
-- [Week 1](https://colab.research.google.com/drive/1iV1RGi3vAUV8_sBk1Fztvisf4ZSsvmFi?usp=sharing)
-- [Week 1-solution](https://colab.research.google.com/drive/1hwHwAZUfN93a58WiFqkyH_jO_htbGbvj?usp=sharing)
-- [Week 2](https://colab.research.google.com/drive/1tm1O6s1rqTvxhJIF-VjEjFGT1_P_CT9A?usp=sharing)
-- [Week 2-solution](https://colab.research.google.com/drive/1UoVOpByCyvAPvmLnIkgnDw7WZodjysRn?usp=sharing)
-- [Week 3](https://colab.research.google.com/drive/1Yiu7qxl-97t-T5qvbkh24Z_2kQtJxaNO?usp=sharing)
-- [Week 3-solution](https://colab.research.google.com/drive/1HgekKcoRvLjhZSYbjf9aTavUkFa_hgko?usp=sharing)
+- [Week 1](https://colab.research.google.com/drive/1iV1RGi3vAUV8_sBk1Fztvisf4ZSsvmFi?usp=sharing), [Week 1-solution](https://colab.research.google.com/drive/1hwHwAZUfN93a58WiFqkyH_jO_htbGbvj?usp=sharing)
+- [Week 2](https://colab.research.google.com/drive/1tm1O6s1rqTvxhJIF-VjEjFGT1_P_CT9A?usp=sharing), [Week 2-solution](https://colab.research.google.com/drive/1UoVOpByCyvAPvmLnIkgnDw7WZodjysRn?usp=sharing)
+- [Week 3](https://colab.research.google.com/drive/1Yiu7qxl-97t-T5qvbkh24Z_2kQtJxaNO?usp=sharing), [Week 3-solution](https://colab.research.google.com/drive/1HgekKcoRvLjhZSYbjf9aTavUkFa_hgko?usp=sharing)
 
 
 ### Practical exercises:
