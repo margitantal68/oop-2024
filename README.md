@@ -33,6 +33,7 @@ For each lecture, there will be some exercises to practice in form of **Google C
 - [Week 3](https://colab.research.google.com/drive/1Yiu7qxl-97t-T5qvbkh24Z_2kQtJxaNO?usp=sharing), [Week 3-solution](https://colab.research.google.com/drive/1HgekKcoRvLjhZSYbjf9aTavUkFa_hgko?usp=sharing)
 - [Week 4](https://colab.research.google.com/drive/1k29SZZO54smB6Bzva_AhpotLX5IdyQYS?usp=sharing)
 - [Week 5](https://colab.research.google.com/drive/159fyfuvtsypqK4NnLqyUvUZGS5oYpKZd?usp=sharing)
+- [Week 6](https://colab.research.google.com/drive/1IFXwTeMQoitVjlX6Y3aViVb_Qv5Ze1kC?usp=sharing)
 
 ### Practical exercises:
 
@@ -41,3 +42,4 @@ For each lecture, there will be some exercises to practice in form of **Google C
 - [Week 3](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB3.pdf)
 - [Week 4](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB4.pdf)
 - [Week 5](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB5.pdf)
+- [Week 6](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB6.pdf)
