@@ -35,6 +35,7 @@ For each lecture, there will be some exercises to practice in form of **Google C
 - [Week 5](https://colab.research.google.com/drive/159fyfuvtsypqK4NnLqyUvUZGS5oYpKZd?usp=sharing)
 - [Week 6](https://colab.research.google.com/drive/1IFXwTeMQoitVjlX6Y3aViVb_Qv5Ze1kC?usp=sharing)
 - [Week 7](https://colab.research.google.com/drive/1pqkcGSYk1aiyiXCJBCsMF6p2j6wmBkxX?usp=sharing)
+- [Week 8](https://colab.research.google.com/drive/1XT0W6fsTYebmkDzXkxwedbHYqTdX21BF?usp=sharing)
 
 ### Practical exercises:
 
