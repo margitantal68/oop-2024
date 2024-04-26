@@ -37,6 +37,7 @@ For each lecture, there will be some exercises to practice in form of **Google C
 - [Week 7](https://colab.research.google.com/drive/1pqkcGSYk1aiyiXCJBCsMF6p2j6wmBkxX?usp=sharing)
 - [Week 8](https://colab.research.google.com/drive/1XT0W6fsTYebmkDzXkxwedbHYqTdX21BF?usp=sharing)
 - [Week 9](https://colab.research.google.com/drive/1InpYryA2G5HPVUMI6Y-CwdOtbsks_75T?usp=sharing), [Week 9-solution](https://colab.research.google.com/drive/1kycGs1QLMsUfIGPaaHU-r6an2DiOLsXd?usp=sharing)
+- [Week 10](https://colab.research.google.com/drive/1eHAOfL9qq9NiTCNgAKjPNI56xz4AQc-j?usp=sharing)
 
 ### Practical exercises:
 
@@ -48,3 +49,5 @@ For each lecture, there will be some exercises to practice in form of **Google C
 - [Week 6](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB6.pdf)
 - [Week 7](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB7.pdf)
 - [Week 9](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB9.pdf)
+- [Week 10](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB10.pdf)
+- [Week 11](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB11.pdf)
