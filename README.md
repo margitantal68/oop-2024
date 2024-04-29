@@ -4,7 +4,7 @@
 
 This open-access course will introduce you to object-oriented programming in Java.
 
-**Prerequisites:** Familiarity with C and programming basics.
+**Prerequisites:** Familiarity with C programming language and programming basics.
 
 **Slides:** [OOP - Java slides](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf).
 
@@ -26,7 +26,7 @@ This open-access course will introduce you to object-oriented programming in Jav
 
 ### Notebooks:
 
-For each lecture, there will be some exercises to practice in form of **Google Colab notebooks**.
+For each lecture, there will be some exercises to practice, in the form of **Google Colab notebooks**.
 
 - [Week 1](https://colab.research.google.com/drive/1iV1RGi3vAUV8_sBk1Fztvisf4ZSsvmFi?usp=sharing), [Week 1-solution](https://colab.research.google.com/drive/1hwHwAZUfN93a58WiFqkyH_jO_htbGbvj?usp=sharing)
 - [Week 2](https://colab.research.google.com/drive/1tm1O6s1rqTvxhJIF-VjEjFGT1_P_CT9A?usp=sharing), [Week 2-solution](https://colab.research.google.com/drive/1UoVOpByCyvAPvmLnIkgnDw7WZodjysRn?usp=sharing)
