@@ -38,6 +38,7 @@ For each lecture, there will be some exercises to practice, in the form of **Goo
 - [Week 8](https://colab.research.google.com/drive/1XT0W6fsTYebmkDzXkxwedbHYqTdX21BF?usp=sharing)
 - [Week 9](https://colab.research.google.com/drive/1InpYryA2G5HPVUMI6Y-CwdOtbsks_75T?usp=sharing), [Week 9-solution](https://colab.research.google.com/drive/1kycGs1QLMsUfIGPaaHU-r6an2DiOLsXd?usp=sharing)
 - [Week 10](https://colab.research.google.com/drive/1eHAOfL9qq9NiTCNgAKjPNI56xz4AQc-j?usp=sharing)
+- [Week 11](https://colab.research.google.com/drive/11P6F1nHdwMUbKuP5kPRZqT2fgvK_KNCN?usp=sharing)
 
 ### Practical exercises:
 
