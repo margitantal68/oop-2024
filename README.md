@@ -2,13 +2,13 @@
 
 ## Object-oriented programming - Java
 
-This open-access course will introduce you to object-oriented programming in Java.
+👋 This open-access course will introduce you to object-oriented programming in Java.
 
 **Prerequisites:** Familiarity with C programming language and programming basics.
 
 **Slides:** [OOP - Java slides](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf).
 
-### Course content:
+### 📖 Course content:
 
 - Java Language
 - Objects and Classes
@@ -24,7 +24,7 @@ This open-access course will introduce you to object-oriented programming in Jav
 
 
 
-### Notebooks:
+### 🔗 Notebooks:
 
 For each lecture, there will be some exercises to practice, in the form of **Google Colab notebooks**.
 
@@ -40,7 +40,7 @@ For each lecture, there will be some exercises to practice, in the form of **Goo
 - [Week 10](https://colab.research.google.com/drive/1eHAOfL9qq9NiTCNgAKjPNI56xz4AQc-j?usp=sharing)
 - [Week 11](https://colab.research.google.com/drive/11P6F1nHdwMUbKuP5kPRZqT2fgvK_KNCN?usp=sharing)
 
-### Practical exercises:
+### 📊Practical exercises:
 
 - [Week 1](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB1.pdf)
 - [Week 2](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB2.pdf)
@@ -52,3 +52,4 @@ For each lecture, there will be some exercises to practice, in the form of **Goo
 - [Week 9](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB9.pdf)
 - [Week 10](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB10.pdf)
 - [Week 11](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB11.pdf)
+- [Week 12](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB12.pdf)
