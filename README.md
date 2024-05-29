@@ -18,7 +18,7 @@
 - Collections and Generics
 - Serialization
 
-### 👩‍🏫 Slides:** [OOP - Java slides](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf).
+### 👩‍🏫 Slides:[OOP - Java slides](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf).
 
 ### 🔗 Notebooks:
 
@@ -49,3 +49,4 @@ For each lecture, there will be some exercises to practice, in the form of **Goo
 - [Week 10](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB10.pdf)
 - [Week 11](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB11.pdf)
 - [Week 12](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB12.pdf)
+- [Week 13](https://github.com/margitantal68/oop-2024/blob/main/practical-exercises/OOP_LAB13.pdf)
