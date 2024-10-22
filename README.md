@@ -5,18 +5,6 @@
 👋 This open-access course will introduce you to object-oriented programming in Java.
 
 **Prerequisites:** Familiarity with C programming language and programming basics.
-### 📖 Course content:
-- Java Language
-- Objects and Classes
-- Static Members
-- Relationships between Classes
-- Inheritance and Polymorphism
-- Interfaces and Abstract Classes
-- Exceptions
-- Nested Classes
-- Threads
-- Collections and Generics
-- Serialization
 
 ### 👩‍🏫 Slides:[OOP - Java slides](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf).
 
